@@ -1,0 +1,52 @@
+* {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: #dadbd5;
+  text-align: center;
+  background-color: #0c4153;
+  }
+
+
+nav {
+  position: fixed;
+  background-color: #683339;
+  border: #683339 solid 9px;
+  width: 100%;/
+  padding-top: 200px;
+  }
+
+
+.button { position: relative;
+  left: 550px;
+  background-color: #e17534;
+  border: #0c4153 solid 3px;
+  padding: 0 10px 0 10px}
+
+  .footer {background-color: #683339;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;;
+    height: 40px;
+    width: 100%;
+    border: 5px solid black;
+  }
+
+.images {
+  justify-content: center;
+}
+  
+.contact {
+  padding-top: 80px;
+  margin-bottom: 40px;
+  }
+
+p {text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 420px
+}
+
+.myname {padding-top: 40px;
+}
